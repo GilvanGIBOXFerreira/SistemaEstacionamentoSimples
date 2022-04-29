@@ -8,4 +8,4 @@ Esse repositorio contem um sistema simples de estacionamento que:
 
 Obs: Esse sistema foi criado com base em um curso da plataforma DIO.
 
-**__by: Gibox__**
+**__ by: Gibox __**
